@@ -1,0 +1,1 @@
+export type incidentState = "OPEN" | "IN PROGRESS" | "DONE"
